@@ -1,1 +1,14 @@
-
+div{
+    text-align: center;
+    background-color: cadetblue;
+}
+table{
+    margin: auto;
+    width: 1024px;
+}
+tr{
+    text-align: left;
+}
+ul{
+    text-align: left;
+}
