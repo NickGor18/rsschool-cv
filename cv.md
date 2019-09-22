@@ -1,4 +1,5 @@
-##Goroshko Nickholay
+## Goroshko Nickholay
+
 [Linked.in](https://www.linkedin.com/in/nickholay-goroshko-b867b5172/)
 
 Contact information:
@@ -18,6 +19,7 @@ English Intermediate (taking additional course in English Papa School).
   * [C++](https://github.com/NickGor18/-)
   * [Java](https://github.com/NickGor18/Java)
   * [HTML](https://github.com/NickGor18/HTML)
+  
 About me:
 Highly motivated with passion for learning and have the capability to meet deadlines in a fast-paced environment.
 An enthusiastic team player and able to work either individually, or in a team.
