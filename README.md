@@ -1,1 +1,1 @@
-[https://NickGor18.github.io/rsschool-cv/cv](https://NickGor18.github.io/rsschool-cv/cv.md])
+[https://NickGor18.github.io/rsschool-cv/cv](https://github.com/NickGor18.github.io/rsschool-cv/cv.md])
