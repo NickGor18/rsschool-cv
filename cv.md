@@ -10,7 +10,7 @@ Contact information:
 
 * Education:
   * Belarusian State University (BSU), Faculty of Applied Mathematics and Computer Science (FAMCS), Specialization: Economical Cybernetics (2017- present);
-  * Average score: 1 semester: 5.75; 2 semester: 5.5; 3 semester: 5.5; 4 semester: 4.8
+  * Average score: 1 semester: 5.75; 2 semester: 5.5; 3 semester: 5.5; 4 semester: 4.8; 5 semester: 5.5;
 Technical Skills:
 C++, HTML 4.01, CSS, GIT, experience with Windows OS, Microsoft Visual Studio.
 Foreign Language:
